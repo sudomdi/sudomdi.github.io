@@ -4,7 +4,7 @@ minimal_mistakes_skin    : default #, "air", "aqua", "contrast", "dark", "dirt",
 # Site Settings
 locale                   : "en-US"
 title                    : "Mehdi Karimi"
-title_separator          : "-"
+title_separator          : "Blog -"
 subtitle                 : "sudomdi"
 name                     : "Mehdi Karimi"
 description              : "An amazing website."
